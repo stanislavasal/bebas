@@ -50,7 +50,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 70px;
   margin-left: 75px;
   letter-spacing: 0.03rem;
-  line-height: 33px;
+  line-height: 1.15;
 
 }
 
@@ -167,7 +167,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1;
   font-size: 29px;
   letter-spacing: 0.03rem;
-  line-height: 33px;
+  line-height: 1.15;
 }
 
 .imgBox1 {
@@ -192,7 +192,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1;
   font-size: 29px;
   letter-spacing: 0.03rem;
-  line-height: 33px;
+  line-height: 1.15;
 }
 
 .imgBox2 {
@@ -231,7 +231,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 450px;
   margin-top: 34px;
   letter-spacing: 0.03rem;
-  line-height: 33px;
+  line-height: 1.15;
 }
 
 .imgletter {
@@ -265,7 +265,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 800px;
   text-align: center;
   letter-spacing: 0.03rem;
-  line-height: 33px;
+  line-height: 1.15;
 }
 .imgBox4 {
   margin-top: 89px;
@@ -295,7 +295,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 550px;
   margin-top: 34px;
   letter-spacing: 0.03rem;
-  line-height: 33px;
+  line-height: 1.15;
 }
 
 .blockFour {
