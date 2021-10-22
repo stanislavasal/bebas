@@ -2,7 +2,7 @@
 @import "content.css";
 @font-face {
   font-family: "BebasNeueRegular";
-  src: url("./Bebass/BebasNeueRegular.ttf") format("truetype");
+  src: url("Bebass/BebasNeueRegular.ttf") format("truetype");
   font-style: normal;
   font-weight: normal;
 }
