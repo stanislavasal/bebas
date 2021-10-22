@@ -36,6 +36,7 @@ h1, h2, h3, h4, h5, h6 {
   max-height: 131px;
   margin-top: 190px;
   margin-left: 75px;
+
 }
 
 .intro_text {
@@ -44,10 +45,12 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
   line-height: 1;
   font-size: 29px;
-  max-width: 418px;
+  width: 450px;
   max-height: 85px;
   margin-top: 70px;
   margin-left: 75px;
+  letter-spacing: 0.03rem;
+  line-height: 33px;
 
 }
 
@@ -101,6 +104,7 @@ h1, h2, h3, h4, h5, h6 {
   max-height: 75px;
   margin-top: -73px;
   margin-left: 1320px;
+
 }
 
 .nav{
@@ -162,6 +166,8 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
   line-height: 1;
   font-size: 29px;
+  letter-spacing: 0.03rem;
+  line-height: 33px;
 }
 
 .imgBox1 {
@@ -185,6 +191,8 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
   line-height: 1;
   font-size: 29px;
+  letter-spacing: 0.03rem;
+  line-height: 33px;
 }
 
 .imgBox2 {
@@ -222,6 +230,8 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 29px;
   width: 450px;
   margin-top: 34px;
+  letter-spacing: 0.03rem;
+  line-height: 33px;
 }
 
 .imgletter {
@@ -252,8 +262,10 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
   line-height: 1;
   font-size: 29px;
-  width: 700px;
+  width: 800px;
   text-align: center;
+  letter-spacing: 0.03rem;
+  line-height: 33px;
 }
 .imgBox4 {
   margin-top: 89px;
@@ -280,8 +292,10 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
   line-height: 1;
   font-size: 29px;
-  width: 450px;
+  width: 550px;
   margin-top: 34px;
+  letter-spacing: 0.03rem;
+  line-height: 33px;
 }
 
 .blockFour {
